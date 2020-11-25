@@ -17,7 +17,7 @@ idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe
-pywin32
+pywin32==300
 requests==2.25.0
 rfc3986==1.4.0
 six==1.15.0
